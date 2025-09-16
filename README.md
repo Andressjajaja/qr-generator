@@ -14,7 +14,10 @@ Una aplicación de escritorio desarrollada en Python con una interfaz gráfica m
 
 ## Capturas de Pantalla
 
-<img width="263" height="42" alt="image" src="https://github.com/user-attachments/assets/183ce9a2-7c21-4026-b8d2-1f804db777b7" />
+<img width="795" height="524" alt="image" src="https://github.com/user-attachments/assets/f1da0caf-a593-4862-bc84-c9e228a8608d" />
+<img width="791" height="523" alt="image" src="https://github.com/user-attachments/assets/b4688571-1866-41f9-b52e-40c3bb9bbdb4" />
+
+
 
 
 ## Requisitos
